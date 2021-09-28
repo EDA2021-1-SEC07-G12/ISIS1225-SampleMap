@@ -1,5 +1,12 @@
 #ISIS1225 - Estructura de un proyecto
 
+
+Juan Andrés Bernal Gil ja.bernalg1@uniandes.edu.co 202110848
+
+
+Juan Esteban Lopez Ulloa je.lopezu1@uniandes.edu.co 202021417
+
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
